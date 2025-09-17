@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./styles.scss";
+import "./style.css";
 
 export default function MultiStepForm() {
   const formsSteps = [
